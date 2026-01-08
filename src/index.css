@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap');
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  font-family: 'Space Grotesk', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+:root {
+  --obsidian: #0A0A0A;
+  /* --gold: #FFD700; */
+  --near-black: #0f0f0f;
+  /* --coral-pink: #F06274; */
+  --coral-pink: rgba(255, 191, 0, 0.9);
+  --deep-charcoal: #121212;
+  --electric-blue: #7DF9FF;
+}
